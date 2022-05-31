@@ -1,0 +1,100 @@
+{
+  "about": [
+    {
+      "label": "GREETING MESSAGE",
+      "url": "https://en.kiswel.com/company/greeting.asp"
+    },
+    {
+      "label": "CHRONOLOGY",
+      "url": "https://en.kiswel.com/company/history.asp"
+    },
+    {
+      "label": "GLOBAL NETWORK",
+      "url": "https://en.kiswel.com/company/network.asp"
+    },
+    {
+      "label": "AFFILIATED COMPANIES",
+      "url": "https://en.kiswel.com/company/companies.asp"
+    }
+  ],
+  "products": [
+    {
+      "label": "overview",
+      "url": "https://en.kiswel.com/product/introduction.asp"
+    },
+    {
+      "label": "line-up",
+      "url": "https://en.kiswel.com/product/product.asp"
+    },
+    {
+      "label": "certifications",
+      "url": "https://en.kiswel.com/product/certifications.asp"
+    },
+    {
+      "label": "msds",
+      "url": "https://en.kiswel.com/product/mdms.asp"
+    },
+    {
+      "label": "technology material",
+      "url": "https://en.kiswel.com/product/technology.asp"
+    },
+    {
+      "label": "reference",
+      "url": "https://en.kiswel.com/product/reference.asp"
+    }
+  ],
+  "r&d": [
+    {
+      "label": "overview",
+      "url": "https://en.kiswel.com/rnd/introduction.asp"
+    },
+    {
+      "label": "chronology",
+      "url": "https://en.kiswel.com/rnd/history.asp"
+    },
+    {
+      "label": "fields of r&d",
+      "url": "https://en.kiswel.com/rnd/study.asp"
+    },
+    {
+      "label": "laboratory equipment",
+      "url": "https://en.kiswel.com/rnd/equipment.asp"
+    }
+  ],
+  "pr": [
+    {
+      "label": "product news",
+      "url": "https://en.kiswel.com/promote/newProduct.asp"
+    },
+    {
+      "label": "kiswel news",
+      "url": "https://en.kiswel.com/promote/news.asp"
+    },
+    {
+      "label": "multimedia",
+      "url": "https://en.kiswel.com/promote/movie.asp"
+    },
+    {
+      "label": "corporate identity",
+      "url": "https://en.kiswel.com/promote/identity.asp"
+    }
+  ],
+  "customer": [
+    {
+      "label": "contact kiswel",
+      "url": "https://en.kiswel.com/support/guidance.asp"
+    },
+    {
+      "label": "faq",
+      "url": "https://en.kiswel.com/support/faq.asp"
+    },
+    {
+      "label": "site link",
+      "url": "https://en.kiswel.com/support/faq.asp"
+    },
+    {
+      "label": "location",
+      "url": "https://en.kiswel.com/support/location.asp"
+    }
+  ]
+}

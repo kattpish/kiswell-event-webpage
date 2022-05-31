@@ -1,0 +1,77 @@
+{
+  "catalogues": [
+    {
+      "name": "Company<br/>Profile",
+      "thumbnail": "/catalogues/catalogue-1.jpg",
+      "url": "/files/0_KISWEL_Company Profile.pdf",
+      "pageNumber": 24
+    },
+    {
+      "name": "Hot-dipped<br/>GI steel & AHSS",
+      "thumbnail": "/catalogues/catalogue-2.jpg",
+      "url": "/files/1_KISWEL_Welding solutions for Hot dipped GI steel & AHSS.pdf",
+      "pageNumber": 6
+    },
+    {
+      "name": "Thermal Power<br/>Generation",
+      "thumbnail": "/catalogues/catalogue-3.jpg",
+      "url": "/files/2_KISWEL_Welding solutions for Thermal power generation.pdf",
+      "pageNumber": 5
+    },
+    {
+      "name": "Wind Turbine<br/>Tower",
+      "thumbnail": "/catalogues/catalogue-4.jpg",
+      "url": "/files/3_KISWEL_Welding solutions for Wind turbine tower.pdf",
+      "pageNumber": 3
+    },
+    {
+      "name": "Maintenance<br/>& Repair",
+      "thumbnail": "/catalogues/catalogue-5.jpg",
+      "url": "/files/4_KISWEL_Welding solutions for Maintenance & Repair.pdf",
+      "pageNumber": 4
+    },
+    {
+      "name": "SOx Scrubber<br/>(Managing IMO 2020 together)",
+      "thumbnail": "/catalogues/catalogue-6.jpg",
+      "url": "/files/5_KISWEL_Welding solutions for SOx scrubber (Managing IMO 202 together).pdf",
+      "pageNumber": 5
+    },
+
+    {
+      "name": "Nuclear Industry",
+      "thumbnail": "/catalogues/catalogue-7.jpg",
+      "url": "/files/6_KISWEL_Welding solutions for Nuclear industry.pdf",
+      "pageNumber": 4
+    },
+    {
+      "name": "Oil Storage<br />Tank (Electro Gas Welding)",
+      "thumbnail": "/catalogues/catalogue-8.jpg",
+      "url": "/files/7_KISWEL_Welding solutions for Oil storage tank (Electro gas welding) .pdf",
+      "pageNumber": 4
+    },
+    {
+      "name": "Shipbuilding<br />& Offshore",
+      "thumbnail": "/catalogues/catalogue-9.jpg",
+      "url": "/files/8_KISWEL_Welding solutions for Shipbuilding & Offshore.pdf",
+      "pageNumber": 4
+    },
+    {
+      "name": "Construction<br />Machinery",
+      "thumbnail": "/catalogues/catalogue-10.jpg",
+      "url": "/files/9_KISWEL_Welding solutions for Construction machinery.pdf",
+      "pageNumber": 4
+    },
+    {
+      "name": "Oil & Gas Pipeline<br />Welding",
+      "thumbnail": "/catalogues/catalogue-11.jpg",
+      "url": "/files/10_KISWEL_Welding solutions for Oil & Gas pipeline welding.pdf",
+      "pageNumber": 4
+    },
+    {
+      "name": "Bridge & Building<br />Construction<br />(Super-Tail Building<br />& Long-span Steel Bridge)",
+      "thumbnail": "/catalogues/catalogue-12.jpg",
+      "url": "/files/11_KISWEL_Welding solutions for Bridge & Building construction (Super tall building & Long span steel bridge).pdf",
+      "pageNumber": 3
+    }
+  ]
+}
